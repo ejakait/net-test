@@ -1,20 +1,23 @@
 
 backend:
   name: github
-  repo: https://github.com/ejakait/net-test
+  repo: https://github.com/ejakait/net-test.git
   branch: master # Branch to update
 
 publish_mode: editorial_workflow
-media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
+media_folder: img/" # Media files will be stored in the repo under images/uploads
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
+    label: "Fujo" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Avatar", name: "avatar", widget: "image"}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Category", name: "category", widget: "string"}
+     
