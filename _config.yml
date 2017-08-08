@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-# Site settings
-title: _fujo._
-description: Modern-Blog
-keywords: Modern, Blogging, Fun
-author: Fujo
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://net-test.siteleaf.net" # the base hostname & protocol for your site, e.g. http://example.commarkdown: kramdown
-markdown: kramdown
-exclude:
-- Gemfile
-- Gemfile.lock
+---
+title: Fujo
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true

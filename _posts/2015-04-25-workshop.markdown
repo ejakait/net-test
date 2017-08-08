@@ -1,11 +1,10 @@
 ---
 title: A Craftsman Workshop
+date: 2015-04-25 12:12:12 Z
 subtitle: It's always a bit messy
 author: Wasssup
 avatar: img/authors/wferr.png
 image: img/f.jpg
-date: '2015-04-25 15:12:12 +0300'
-
 ---
 
 ### Dolor sit amet?
