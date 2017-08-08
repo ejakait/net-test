@@ -1,5 +1,5 @@
 ---
-title: Modern Blog
+title: Fujo
 timezone: Africa/Nairobi
 collections:
   posts:
@@ -10,7 +10,7 @@ collections:
     output: true
 description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
-author: Wferr
+author: Fujo
 baseurl: 
 url: http://net-test.siteleaf.net/
 markdown: kramdown
