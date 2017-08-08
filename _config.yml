@@ -1,10 +1,10 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
+title: _fujo._
+description: Modern-Blog
 keywords: Modern, Blogging, Fun
-author: Wferr
+author: Fujo
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://philatist-rat-13667.netlify.com" # the base hostname & protocol for your site, e.g. http://example.commarkdown: kramdown
+url: "http://net-test.siteleaf.net" # the base hostname & protocol for your site, e.g. http://example.commarkdown: kramdown
 markdown: kramdown
 exclude:
   - Gemfile
