@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: _fujo._
 description: Modern-Blog
@@ -7,5 +8,5 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://net-test.siteleaf.net" # the base hostname & protocol for your site, e.g. http://example.commarkdown: kramdown
 markdown: kramdown
 exclude:
-  - Gemfile
-  - Gemfile.lock
+- Gemfile
+- Gemfile.lock
