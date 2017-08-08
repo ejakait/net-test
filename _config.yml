@@ -1,6 +1,6 @@
 ---
 title: Modern Blog
-timezone: UTC
+timezone: Africa/Nairobi
 collections:
   posts:
     title: Posts
