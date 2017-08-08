@@ -12,7 +12,7 @@ description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
 author: Wferr
 baseurl: 
-url: http://philatist-rat-13667.netlify.com
+url: http://net-test.siteleaf.net/
 markdown: kramdown
 exclude:
 - Gemfile
