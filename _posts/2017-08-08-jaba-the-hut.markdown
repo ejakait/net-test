@@ -7,11 +7,8 @@ tags:
 - test
 subtitle: Wassup
 author: Caleb
-avatar_image: "/uploads/1rM0qki-m-bison-wallpaper.jpg"
+avatar: "/uploads/1rM0qki-m-bison-wallpaper.jpg"
 image: "/uploads/1rM0qki-m-bison-wallpaper.jpg"
-alt_images:
-- "/uploads/1rM0qki-m-bison-wallpaper.jpg"
-- "/uploads/1rM0qki-m-bison-wallpaper.jpg"
 ---
 
 Wassup bruh
