@@ -8,11 +8,15 @@ collections:
   uploads:
     title: Uploads
     output: true
+
+plugins:
+  -jekyll-cloudinary
+  
 cloudinary:
   cloud_name: tremidus
   verbose: true
   presets:
-    default:
+      default:
       min_width: 320
       max_width: 800
       fallback_max_width: 800
