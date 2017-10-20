@@ -9,6 +9,10 @@ collections:
     title: Uploads
     output: true
 
+plugins:
+  -jekyll-cloudinary
+
+  
 cloudinary:
   cloud_name: tremidus
   verbose: true
