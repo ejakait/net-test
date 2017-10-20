@@ -8,7 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-
 cloudinary:
   cloud_name: tremidus
   verbose: true
