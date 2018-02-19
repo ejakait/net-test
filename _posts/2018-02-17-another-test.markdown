@@ -13,4 +13,4 @@ layout: compress
 ---
 
 Just another preview
-{% cloudinary /assets/images/matrix.png alt="beautiful!" %}
+{% cloudinary /uploads/1rM0qki-m-bison-wallpaper.jpg %}
