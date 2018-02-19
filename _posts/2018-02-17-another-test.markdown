@@ -8,8 +8,9 @@ tags:
 subtitle: Ahh
 author: Caleb
 avatar: "/uploads/1rM0qki-m-bison-wallpaper.jpg"
-image: http://res.cloudinary.com/tremidus/image/upload/c_scale,w_447/v1485243172/bjvc8pn3petqxmh6ywfh.png
+image: "/uploads/1rM0qki-m-bison-wallpaper.jpg"
 layout: compress
 ---
 
-{% cloudinary /assets/img.jpg alt="beautiful!" %}
+Just another preview
+{% cloudinary /assets/images/matrix.png alt="beautiful!" %}
