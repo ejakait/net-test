@@ -12,3 +12,4 @@ image: http://res.cloudinary.com/tremidus/image/upload/c_scale,w_447/v1485243172
 layout: compress
 ---
 
+{% cloudinary /assets/img.jpg alt="beautiful!" %}
